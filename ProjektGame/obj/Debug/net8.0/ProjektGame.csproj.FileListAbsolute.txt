@@ -1,0 +1,14 @@
+C:\Users\Vocus\source\repos\ProjektGame\ProjektGame\bin\Debug\net8.0\ProjektGame.exe
+C:\Users\Vocus\source\repos\ProjektGame\ProjektGame\bin\Debug\net8.0\ProjektGame.deps.json
+C:\Users\Vocus\source\repos\ProjektGame\ProjektGame\bin\Debug\net8.0\ProjektGame.runtimeconfig.json
+C:\Users\Vocus\source\repos\ProjektGame\ProjektGame\bin\Debug\net8.0\ProjektGame.dll
+C:\Users\Vocus\source\repos\ProjektGame\ProjektGame\bin\Debug\net8.0\ProjektGame.pdb
+C:\Users\Vocus\source\repos\ProjektGame\ProjektGame\obj\Debug\net8.0\ProjektGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vocus\source\repos\ProjektGame\ProjektGame\obj\Debug\net8.0\ProjektGame.AssemblyInfoInputs.cache
+C:\Users\Vocus\source\repos\ProjektGame\ProjektGame\obj\Debug\net8.0\ProjektGame.AssemblyInfo.cs
+C:\Users\Vocus\source\repos\ProjektGame\ProjektGame\obj\Debug\net8.0\ProjektGame.csproj.CoreCompileInputs.cache
+C:\Users\Vocus\source\repos\ProjektGame\ProjektGame\obj\Debug\net8.0\ProjektGame.dll
+C:\Users\Vocus\source\repos\ProjektGame\ProjektGame\obj\Debug\net8.0\refint\ProjektGame.dll
+C:\Users\Vocus\source\repos\ProjektGame\ProjektGame\obj\Debug\net8.0\ProjektGame.pdb
+C:\Users\Vocus\source\repos\ProjektGame\ProjektGame\obj\Debug\net8.0\ProjektGame.genruntimeconfig.cache
+C:\Users\Vocus\source\repos\ProjektGame\ProjektGame\obj\Debug\net8.0\ref\ProjektGame.dll
